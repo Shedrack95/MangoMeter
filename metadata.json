@@ -1,0 +1,5 @@
+{
+  "name": "MangoMeter Energy Dashboard",
+  "description": "A production-grade energy monitoring SaaS platform for facility managers, featuring real-time data tracking, historical analysis, and multi-meter management.",
+  "requestFramePermissions": []
+}
